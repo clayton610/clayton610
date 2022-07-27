@@ -2,7 +2,7 @@
    <a href="https://github.com/clayton610">
    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=clayton610&show_icons=true&theme=tokyolight&include_all_commits=true&count_private=true"/><br>
  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
+   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
           
           
  <br>
