@@ -6,7 +6,7 @@
  
  <br>
  
-  ### Para mais contato ou duvidas, segue minhas redes sociais!
+ 
  
 <div> 
  <a href="https://www.linkedin.com/in/clayton-maia-barbosa-44896b236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
