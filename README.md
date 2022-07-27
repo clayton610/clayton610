@@ -6,8 +6,8 @@
  
  <div>
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clayton610)](https://github.com/clayton610/github-readme-stats)
  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clayton610&repo=github-readme-stats)](https://github.com/clayton610/github-readme-stats)
  
  </div>
  <br>
