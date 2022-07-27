@@ -4,7 +4,7 @@
    <br>
    <br>
  
-   <img height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
+   <img height="200" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
           
           
  <br>
