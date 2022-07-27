@@ -6,7 +6,7 @@
  
  <div>
  
- 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clayton610)](https://github.com/clayton610/github-readme-stats)
  
  
  </div>
