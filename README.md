@@ -1,7 +1,8 @@
  <div>
    <a href="https://github.com/clayton610">
    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=clayton610&show_icons=true&theme=tokyolight&include_all_commits=true&count_private=true"/>
- 
+ <img align="center" alt="Js" height="30" width"40" src="link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
  <br>
   <br>
  
