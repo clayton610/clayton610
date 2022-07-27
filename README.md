@@ -3,8 +3,7 @@
    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=clayton610&show_icons=true&theme=tokyolight&include_all_commits=true&count_private=true"/>
    <br>
     
- <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" /></a>    
-          
+ <img height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" /></a>     
  <br>
  
 <div> 
